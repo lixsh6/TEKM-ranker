@@ -1,3 +1,6 @@
+TEKM-ranker
+-------------
+
 A pytorch implement for WWW 2021 paper ''[Topic-enhanced knowledge-aware retrieval model for diverse relevance estimation](http://www.thuir.cn/group/~YQLiu/)'', namely `Topic Enhanced Knowledge-aware retrieval model(TEKM)`.
 
 ## Requirement
